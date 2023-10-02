@@ -27,6 +27,12 @@
 	    <groupId>org.apache.hive</groupId>
 	    <artifactId>hive-metastore</artifactId>
 	    <version>0.13.1</version>
+	    <exclusions>
+	        <exclusion>
+	            <groupId>*</groupId>
+	            <artifactId>*</artifactId>
+	        </exclusion>
+    	    </exclusions>
 	</dependency>
     </dependencies>
 	

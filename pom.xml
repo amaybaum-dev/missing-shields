@@ -24,9 +24,9 @@
 
     <dependencies>
 	<dependency>
-	    <groupId>org.apache.httpcomponents</groupId>
-	    <artifactId>httpclient</artifactId>
-	    <version>4.2.6</version>
+	    <groupId>io.netty</groupId>
+	    <artifactId>netty-codec-haproxy</artifactId>
+	    <version>4.0.37.Final-redhat-2</version>
 	</dependency>
     </dependencies>
 	

@@ -24,9 +24,9 @@
 
     <dependencies>
 	<dependency>
-	    <groupId>io.netty</groupId>
-	    <artifactId>netty-codec-haproxy</artifactId>
-	    <version>4.0.37.Final-redhat-2</version>
+	    <groupId>org.apache.hive</groupId>
+	    <artifactId>hive-metastore</artifactId>
+	    <version>0.13.1</version>
 	</dependency>
     </dependencies>
 	
